@@ -1,2 +1,2 @@
 # Android-APP-Music-Player
-i designed and developed register and login activity
+i designed and developed register and login activities
